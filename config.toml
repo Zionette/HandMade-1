@@ -1,4 +1,4 @@
-baseURL = "http://handmade-by-zionette.com.s3-website-us-east-1.amazonaws.com/"
+baseURL = "http://handmade-by-zionette.com/"
 languageCode = "en"
 title = "My New Hugo Site"
 theme = "hargo"
