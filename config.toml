@@ -1,6 +1,6 @@
 baseURL = "http://handmade-by-zionette.com/"
 languageCode = "en"
-title = "My New Hugo Site"
+title = "Handmade by Zionette"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10

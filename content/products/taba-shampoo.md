@@ -1,5 +1,5 @@
 ---
-title: "Taba Shampoo"
+title: "Hanging Soap Saver"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
@@ -7,8 +7,8 @@ draft: false
 description : "For Glowing Skin"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "4.00"
+priceBefore: "5.00"
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
@@ -22,7 +22,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/product-6.png"
+  - image: "images/products/SoapSaverFramed.png"
   - image: "images/products/product-2.png"
   - image: "images/products/product-3.png"
   - image: "images/products/product-4.png"
