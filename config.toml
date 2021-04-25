@@ -1,4 +1,4 @@
-baseURL = "http://handmade-by-zionette.com/"
+baseURL = "https://handmade-by-zionette.com/"
 languageCode = "en"
 title = "Handmade by Zionette"
 theme = "hargo"
