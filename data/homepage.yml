@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Handcrafted pieces of Art"
   content : "Discover unique handmade items, handcrafted by Zionette with impeccable craftsmanship."
-  image : "images/products/CollageFramed.png"
+  image : "images/products/CollageAll2.png"
   # button
   button:
     enable : true
@@ -18,9 +18,8 @@ banner:
 about:
   enable : true
   title : "Newest Creation on our Show Case"
-  content : "This fedora-style Summer Tweed hat shades you during those beautiful summer walks, and gives
-  a gives you a style like no other, enjoy this beauty!"
-  image : "images/products/Hat4.png"
+  content : "Summer Blue Shoe Sandal"
+  image : "images/products/BlueShoe1Framed.png"
 
 
 ###################### Call to action ########################
@@ -28,7 +27,7 @@ cta:
   enable : true
   title : "Buy one Get One Free Rosemary~Mint Soap"
   content : "Available for limited time only. Grab one while you still can!"
-  image : "images/.png"
+  image : "images/SoapSaverFlowerFramedBanner.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Soaps"
@@ -80,9 +79,8 @@ advantage:
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  title : "Every day Life of Handmade by Zionette"
+  content : "Video coming soon to tell you the story of the every day life at Handmade by Zionette"
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
