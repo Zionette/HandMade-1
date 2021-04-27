@@ -81,8 +81,8 @@ video:
   enable : true
   title : "Every day Life of Handmade by Zionette"
   content : "Video coming soon to tell you the story of the every day life at Handmade by Zionette"
-  videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  videoThumb : "images/HandmadeThumbVideo.png"
+  videoURL : "https://youtu.be/thqAZddMnx4"
 
 
 ######################## Products #############################
