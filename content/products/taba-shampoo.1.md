@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/BlueShoe1Framed.png"
+  - image: "images/products/BlueShoe.png"
   - image: "images/products/BlueShoeCollage.png"
   - image: "images/products/BlueShoe1.1.png"
-  - image: "images/products/BlueShoe1Framed.png"
+  - image: "images/products/BlueShoe.png"
 ---
 
 Summer Blue Shoe.

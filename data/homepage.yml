@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Handcrafted pieces of Art"
   content : "Discover unique handmade items, handcrafted by Zionette with impeccable craftsmanship."
-  image : "images/products/CollageAll2.png"
+  image : "images/products/CollageAll3.png"
   # button
   button:
     enable : true
@@ -18,8 +18,8 @@ banner:
 about:
   enable : true
   title : "Newest Creation on our Show Case"
-  content : "Summer Blue Shoe Sandal"
-  image : "images/products/BlueShoe1Framed.png"
+  content : "Summer Red Pullover"
+  image : "images/products/SummerPullover.png"
 
 
 ###################### Call to action ########################
