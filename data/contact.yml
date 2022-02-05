@@ -4,20 +4,15 @@ contact:
   # office
   office:
     title : "Central Office"
-    content : "Information Coming Soon"
+    content : "2241 North Monroe Street #1053, Tallahassee, FL. 32303"
     # other information comes from "config.toml"
 
   # opennig hour
   opennigHour:
-    title : "Opening Hours"
+    title : "Virtual Office"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 19:00"
-      - dayTime : "Tuesday: 9:00 – 19:00"
-      - dayTime : "Wednesday: 9:00 – 19:00"
-      - dayTime : "Thursday: 9:00 – 19:00"
-      - dayTime : "Friday: 9:00 – 19:00"
-      - dayTime : "Saturday: 9:00 – 19:00"
-      - dayTime : "sunday: 9:00 – 19:00"
+      - dayTime : "24/7"
+      
 
 ####################### google map ########################
 map:

@@ -22,7 +22,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/SoapSaverFlowerFramed.png"
+  - image: "images/products/ProductRainbow.JPG"
   - image: "images/products/SoapSaverFlowerFramed.png"
   - image: "images/products/SoapSaverFlowerFramed.png"
   - image: "images/products/SoapSaverFlowerFramed.png"

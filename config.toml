@@ -92,7 +92,7 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
+
 email = "zionette@handmade-by-zionette.com"
 location = "Tallahassee, Florida"
 # copyright
@@ -115,24 +115,9 @@ currencySymbol = "$"
 
   # Social Site
   [[params.social]]
-  icon = "ti-facebook"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
-
-  [[params.social]]
   icon = "ti-youtube"
   link = "#"
 
-  [[params.social]]
-  icon = "ti-instagram"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
 
   # Contact Form
   [params.contact]
