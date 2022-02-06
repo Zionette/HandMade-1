@@ -1,17 +1,17 @@
 ---
-title: "Rosemary~Lavendar Soap"
+title: "Rainbow Hat"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "For Warmth"
 
 # product Price
-price: "10.00"
-priceBefore: "12.00"
+price: "32.00"
+priceBefore: "44.00"
 
 # Product Short Description
-shortDescription: "Rosemary~Lavendar Soap"
+shortDescription: "Rainbow Hat"
 
 #product ID
 productID: "1"
@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/ProductRainbow.JPG"
-  - image: "images/products/SoapSaverFlowerFramed.png"
-  - image: "images/products/SoapSaverFlowerFramed.png"
-  - image: "images/products/SoapSaverFlowerFramed.png"
+  - image: "images/products/RainbowHat.2.png"
+  - image: "images/products/RainbowHat.2.png"
+  - image: "images/products/RainbowHat.2.png"
+  - image: "images/products/RainbowHat.2.png"
 ---
 
-Rosemary~Lavendar Soap.
+Rainbow Hat.

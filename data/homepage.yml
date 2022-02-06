@@ -65,7 +65,7 @@ advantage:
   enable : true
   title : "Advantages Of Purchasing <br> Our Product"
   subtitle : "Build community and support a small USA business startup<br> and the owner uses other USA products to handcraft her crafts."
-  image : "images/products/RainbowHat.png"
+  image : "images/products/RainbowHat.2.png"
   advantageList:
     # advantage list loop
     - listItem : "Wearing Handcrafted Beaded items"
