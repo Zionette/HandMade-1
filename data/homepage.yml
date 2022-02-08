@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Handcrafted pieces of Art"
   content : "Discover unique handmade beaded scarfs and hoods, handcrafted by Zionette with impeccable craftsmanship."
-  image : "images/products/RusticHatScarf.png"
+  image : "images/products/OlymHoodyScarf2.png"
   # button
   button:
     enable : true
@@ -18,8 +18,8 @@ banner:
 about:
   enable : true
   title : "Newest Creation on our Show Case"
-  content : "Olympic Beaded Blue Hat"
-  image : "images/products/OlmpicBlueHat.png"
+  content : "Hot Springs Kids Hoody with Sparkle Pink Beads"
+  image : "images/products/KidsPurpleHoody3.png"
 
 
 ###################### Call to action ########################

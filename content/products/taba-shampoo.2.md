@@ -1,17 +1,17 @@
 ---
-title: "Coffee & Tea Coaster"
+title: "Felicity Beaded Hoody"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "For Warmth"
 
 # product Price
-price: "7.00"
-priceBefore: "10.00"
+price: "32.00"
+priceBefore: "40.00"
 
 # Product Short Description
-shortDescription: "Coffee & Tea handmade coaster for your special sipping your special drink."
+shortDescription: ""
 
 #product ID
 productID: "8"
@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/Coffee-TeaCoaster1.png"
-  - image: "images/products/Coffee-TeaCoaster1.png"
-  - image: "images/products/Coffee-TeaCoaster1.png"
-  - image: "images/products/Coffee-TeaCoaster1.png"
+  - image: "images/products/ProductFelicityHoody.png"
+  - image: "images/products/"
+  - image: "images/products/"
+  - image: "images/products/"
 ---
 
 Coffee & Tea handmade coaster for your special sipping your special drink.

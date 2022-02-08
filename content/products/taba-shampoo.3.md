@@ -1,5 +1,5 @@
 ---
-title: "Summer Red Pullover"
+title: "Tweed Beaded Scarf"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
@@ -7,11 +7,11 @@ draft: false
 description : "Handmade"
 
 # product Price
-price: "120.00"
-priceBefore: "175.00"
+price: "44.00"
+priceBefore: "54.00"
 
 # Product Short Description
-shortDescription: "This lightweight crochet top pattern transitions between seasons beautifully."
+shortDescription: "Tweed Beaded Scarf."
 
 #product ID
 productID: "9"
@@ -22,7 +22,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/SummerPullover.png"
+  - image: "images/products/ProductTweedScarf.png"
   - image: "images/products/SummerPullover.png"
   - image: "images/products/SummerPullover.png"
   - image: "images/products/SummerPullover.png"

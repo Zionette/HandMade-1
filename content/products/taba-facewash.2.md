@@ -1,17 +1,17 @@
 ---
-title: "Handcrafted Moccasin Shoe"
+title: "Rustic Beaded Hoody"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Comfort"
+description : "For Warmth"
 
 # product Price
-price: "26.00"
-priceBefore: "29.00"
+price: "32.00"
+priceBefore: "40.00"
 
 # Product Short Description
-shortDescription: "Handcrafted Moccasin Shoe"
+shortDescription: "Handcrafted Rustic Beaded Hoody"
 
 #product ID
 productID: "6"
@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/ShoeFramed.png"
-  - image: "images/products/ShoeFramed.png"
-  - image: "images/products/ShoeFramed.png"
-  - image: "images/products/ShoeFramed.png"
+  - image: "images/products/ProductRusticHoody.png"
+  - image: "images/products/"
+  - image: "images/products/"
+  - image: "images/products/"
 ---
 
 Handcrafted Moccasin Shoe.

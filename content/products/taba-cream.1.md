@@ -1,5 +1,5 @@
 ---
-title: "Rainbow Hat"
+title: "Rainbow Beaded Hoody"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/RainbowHat.2.png"
-  - image: "images/products/RainbowHat.2.png"
-  - image: "images/products/RainbowHat.2.png"
-  - image: "images/products/RainbowHat.2.png"
+  - image: "images/products/ProductRainbow3.png"
+  - image: "images/products/ProductRainbow3.png"
+  - image: "images/products/ProductRainbow3.png"
+  - image: "images/products/ProductRainbow3.png"
 ---
 
 Rainbow Hat.
