@@ -6,21 +6,21 @@ draft: false
 # meta description
 description : "For Warmth"
 
-# product Price
+# hoody Price
 price: "32.00"
 priceBefore: "44.00"
 
-# Product Short Description
+# Hoody Short Description
 shortDescription: "Rainbow Hat"
 
-#product ID
+#hoody ID
 productID: "1"
 
-# type must be "products"
-type: "products"
+# type must be "hoody"
+type: "hoody"
 
-# product Images
-# first image will be shown in the product page
+# hoody Images
+# first image will be shown in the hoody page
 images:
   - image: "images/products/ProductRainbow3.png"
   - image: "images/products/ProductRainbow3.png"

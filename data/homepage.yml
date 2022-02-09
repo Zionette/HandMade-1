@@ -85,11 +85,11 @@ video:
   videoURL : "https://www.youtube.com/embed/thqAZddMnx4"
 
 
-######################## Products #############################
-products:
+######################## Kids #############################
+kids:
   enable : true
   title : "Handcrafted Pieces"
-  # product item comes from "content/products"
+  # product item comes from "content/kids"
 
 
 ########################## Testimonial ########################

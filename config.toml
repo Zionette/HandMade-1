@@ -31,8 +31,23 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  name = "Products"
-  URL = "products"
+  name = "Hoody"
+  URL = "hoody"
+  weight = 1
+  
+  [[menu.main]]
+  name = "Scarf"
+  URL = "scarf"
+  weight = 1
+  
+   [[menu.main]]
+  name = "Kids"
+  URL = "kids"
+  weight = 1
+  
+  [[menu.main]]
+  name = "Glass"
+  URL = "glass"
   weight = 1
 
   [[menu.main]]
@@ -52,8 +67,23 @@ disqusShortname = ""
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
-  URL = "products"
+  name = "Hoody"
+  URL = "hoody"
+  weight = 1
+
+[[menu.footer]]
+  name = "Scarf"
+  URL = "scarf"
+  weight = 1
+  
+  [[menu.footer]]
+  name = "Kids"
+  URL = "kids"
+  weight = 1
+  
+  [[menu.footer]]
+  name = "Glass"
+  URL = "glass"
   weight = 1
 
   [[menu.footer]]
@@ -96,7 +126,7 @@ googleAnalitycsID = "" # Your ID
 email = "zionette@handmade-by-zionette.com"
 location = "Tallahassee, Florida"
 # copyright
-copyright = "| Copyright &copy; 2021 [Handmade by Zionette](https://handmade-by-zionette.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2022 [Handmade by Zionette](https://handmade-by-zionette.com) All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
