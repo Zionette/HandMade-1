@@ -14,18 +14,18 @@ priceBefore: "40.00"
 shortDescription: "Beaded Mint Hoody"
 
 #product ID
-productID: "3"
+productID: ""
 
-# type must be "products"
-type: "products"
+# type must be "hoody"
+type: "hoody"
 
 # product Images
 # first image will be shown in the product page
 images:
   - image: "images/products/ProductMintHoody.png"
-  - image: "images/products/SoapSaverRoseFramed.png"
-  - image: "images/products/SoapSaverRoseFramed.png"
-  - image: "images/products/SoapSaverRoseFramed.png"
+  - image: "images/products/ProductMintHoody.png"
+  - image: "images/products/ProductMintHoody.png"
+  - image: "images/products/ProductMintHoody.png"
 ---
 
-Rose~Mint Soap.
+

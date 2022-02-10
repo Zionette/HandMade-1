@@ -14,10 +14,10 @@ priceBefore: "40.00"
 shortDescription: ""
 
 #product ID
-productID: "8"
+productID: ""
 
-# type must be "products"
-type: "products"
+# type must be "hoody"
+type: "hoody"
 
 # product Images
 # first image will be shown in the product page
@@ -28,4 +28,4 @@ images:
   - image: "images/products/"
 ---
 
-Coffee & Tea handmade coaster for your special sipping your special drink.
+

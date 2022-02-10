@@ -14,10 +14,10 @@ priceBefore: "49.00"
 shortDescription: "Summer Tweed Hat"
 
 #product ID
-productID: "4"
+productID: ""
 
-# type must be "products"
-type: "products"
+# type must be "hoody"
+type: "hoody"
 
 # product Images
 # first image will be shown in the product page
@@ -28,4 +28,4 @@ images:
   - image: "images/products/Hat01Framed.png"
 ---
 
-Summer Tweed Hat.
+

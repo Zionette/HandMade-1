@@ -29,6 +29,11 @@ disqusShortname = ""
 
 ############################## navigation ###############################
 [menu]
+  
+  [[menu.main]]
+  name = "Hoody/Scarf Sets"
+  URL = "sets"
+  weight = 1 
 
   [[menu.main]]
   name = "Hoody"

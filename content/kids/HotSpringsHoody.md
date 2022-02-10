@@ -6,15 +6,15 @@ draft: false
 # meta description
 description : "For Warmth"
 
-# Kids Price
+# kids Price
 price: "32.00"
 priceBefore: "44.00"
 
-# Kids Short Description
+# kids Short Description
 shortDescription: "Kids Hot Springs Beaded Hoody"
 
 #kids ID
-productID: "1"
+productID: ""
 
 # type must be "kids"
 type: "kids"
@@ -22,10 +22,10 @@ type: "kids"
 # kids Images
 # first image will be shown in the product page
 images:
+  - image: "images/kids/KidsPurpleHoody3.png"
   - image: "images/products/KidsPurpleHoody3.png"
-  - image: "images/products/ProductRainbow3.png"
-  - image: "images/products/ProductRainbow3.png"
-  - image: "images/products/ProductRainbow3.png"
+  - image: "images/products/KidsPurpleHoody3.png"
+  - image: "images/products/KidsPurpleHoody3.png"
 ---
 
-Rainbow Hat.
+Kids Hot Springs Beaded Hoody.

@@ -14,18 +14,18 @@ priceBefore: "40.00"
 shortDescription: "Tweed Beaded Hoody"
 
 #product ID
-productID: "6"
+productID: ""
 
-# type must be "products"
-type: "products"
+# type must be "hoody"
+type: "hoody"
 
 # product Images
 # first image will be shown in the product page
 images:
   - image: "images/products/ProductTweedHoody.png"
-  - image: "images/products/SoapSaverBudsFramed.png"
-  - image: "images/products/SoapSaverBudsFramed.png"
-  - image: "images/products/SoapSaverBudsFramed.png"
+  - image: "images/products/ProductTweedHoody.png"
+  - image: "images/products/ProductTweedHoody.png"
+  - image: "images/products/ProductTweedHoody.png"
 ---
 
-Rosemary~Lavendar Soap.
+

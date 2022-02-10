@@ -6,26 +6,26 @@ draft: false
 # meta description
 description : "Olympic Beaded Scarf"
 
-# product Price
+# scarf Price
 price: "44.00"
 priceBefore: "54.00"
 
 # Product Short Description
-shortDescription: "Blue Summer Shoe is a classy way to set off on a summer stroll."
+shortDescription: "."
 
 #product ID
-productID: "7"
+productID: ""
 
-# type must be "products"
-type: "products"
+# type must be "scarf"
+type: "scarf"
 
 # product Images
 # first image will be shown in the product page
 images:
   - image: "images/products/ProductOlymScarf.png"
-  - image: "images/products/BlueShoeCollage.png"
-  - image: "images/products/BlueShoe1.1.png"
-  - image: "images/products/BlueShoe.png"
+  - image: "images/products/ProductOlymScarf.png"
+  - image: "images/products/ProductOlymScarf.png"
+  - image: "images/products/ProductOlymScarf.png"
 ---
 
-Summer Blue Shoe.
+

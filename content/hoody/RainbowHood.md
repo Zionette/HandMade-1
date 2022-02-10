@@ -11,10 +11,10 @@ price: "32.00"
 priceBefore: "44.00"
 
 # Hoody Short Description
-shortDescription: "Rainbow Hat"
+shortDescription: "Rainbow Hoody"
 
 #hoody ID
-productID: "1"
+productID: ""
 
 # type must be "hoody"
 type: "hoody"
@@ -28,4 +28,4 @@ images:
   - image: "images/products/ProductRainbow3.png"
 ---
 
-Rainbow Hat.
+Rainbow Hoody.

@@ -64,14 +64,14 @@ material:
 advantage:
   enable : true
   title : "Advantages Of Purchasing <br> Our Product"
-  subtitle : "Build community and support a small USA business startup<br> and the owner uses other USA products to handcraft her crafts."
+  subtitle : "Build community and support a small USA business startup<br> and the owner uses other USA products to handcraft her art."
   image : "images/products/RainbowHat.2.png"
   advantageList:
     # advantage list loop
     - listItem : "Wearing Handcrafted Beaded items"
     - listItem : "One of a Kind"
     - listItem : "Soft and Sensational"
-    - listItem : "Supporting USA, a growing community of crafters"
+    - listItem : "Supporting USA, a growing community of handmade"
     - listItem : "Pride of Handmade"
     - listItem : "Strutting Pure Beauty"
 
@@ -85,11 +85,35 @@ video:
   videoURL : "https://www.youtube.com/embed/thqAZddMnx4"
 
 
+######################## Sets #############################
+sets:
+  enable : true
+  title : "Handcrafted Hoody/Scarf Sets of Art"
+  # sets item comes from "content/sets"
+
 ######################## Kids #############################
 kids:
   enable : true
-  title : "Handcrafted Pieces"
-  # product item comes from "content/kids"
+  title : "Handcrafted Kids Art Pieces"
+  # kids item comes from "content/kids"
+
+######################## Hoody #############################
+hoody:
+  enable : true
+  title : "Handcrafted Hoody Art Pieces"
+  # hoody item comes from "content/hoody"
+
+######################## Scarf #############################
+scarf:
+  enable : true
+  title : "Handcrafted Scarf Art Pieces"
+  # scarf item comes from "content/scarf"
+
+######################## Glass #############################
+glass:
+  enable : true
+  title : "Handcrafted Glass Art Pieces"
+  # glass item comes from "content/glass"
 
 
 ########################## Testimonial ########################

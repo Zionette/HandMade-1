@@ -1,31 +1,31 @@
 ---
-title: "Rustic Beaded Hoody"
+title: "Coming Soon....."
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Warmth"
+description : "Etched Glass Wine Bottle for tea candles....coming soon"
 
 # product Price
-price: "32.00"
-priceBefore: "40.00"
+price: "56.00"
+priceBefore: "62.00"
 
 # Product Short Description
-shortDescription: "Handcrafted Rustic Beaded Hoody"
+shortDescription: ""
 
 #product ID
-productID: "6"
+productID: ""
 
-# type must be "products"
-type: "products"
+# type must be "glass"
+type: "glass"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/ProductRusticHoody.png"
+  - image: "images/products/"
   - image: "images/products/"
   - image: "images/products/"
   - image: "images/products/"
 ---
 
-Handcrafted Moccasin Shoe.
+
