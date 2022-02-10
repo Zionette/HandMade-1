@@ -1,17 +1,17 @@
 ---
-title: "Olympic Beaded Scarf"
+title: "Rainbow Beaded Scarf"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "Olympic Beaded Scarf"
+description : "Handmade"
 
 # scarf Price
 price: "44.00"
 priceBefore: "54.00"
 
 # Product Short Description
-shortDescription: "."
+shortDescription: "Handmade"
 
 #product ID
 productID: ""
@@ -22,10 +22,10 @@ type: "scarf"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/ProductOlymScarf.png"
-  - image: "images/products/ProductOlymScarf.png"
-  - image: "images/products/ProductOlymScarf.png"
-  - image: "images/products/ProductOlymScarf.png"
+  - image: "images/scarf/RainbowScarf.png"
+  - image: "images/scarf/RainbowScarf.png"
+  - image: "images/scarf/RainbowScarf.png"
+  - image: "images/scarf/RainbowScarf.png"
 ---
 
 
