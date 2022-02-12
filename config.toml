@@ -120,16 +120,16 @@ home = "Home"
 description = "This is meta description"
 author = "Themefisher"
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+gmapAPI = "https://www.google.com/maps/place/2241+N+Monroe+St+%231053,+Tallahassee,+FL+32303/@30.4713819,-84.2905558,17z/data=!3m1!4b1!4m5!3m4!1s0x88ecf594d84513fb:0x674e4482ee07a63e!8m2!3d30.4713819!4d-84.2883618"
+mapLatitude = "30.4713819"
+mapLongitude = "-84.2905558"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
 
 email = "zionette@handmade-by-zionette.com"
-location = "Tallahassee, Florida"
+location = "Virtual Office"
 # copyright
 copyright = "| Copyright &copy; 2022 [Handmade by Zionette](https://handmade-by-zionette.com) All Rights Reserved |"
 # Snipcart Credentials
