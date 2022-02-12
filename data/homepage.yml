@@ -132,19 +132,19 @@ testimonial:
     - name : "PEOPLE Unleashed"
       image : "images/clients/PeopleClient3.png" # size 100px*100px
       designation : "Founder, PEOPLE Unleashed"
-      content : "Soaps are phenominal! <br> They are made with essential oils <br> and herbs from her garden."
+      content : "Hoodies are phenominal! <br> They give great warmth <br> and the Ombre yarn is very luxerious!."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Zionette Cleek"
       image : "images/clients/Zionette.png" # size 100px*100px
       designation : "Founder, Handmade by Zionette, and PEOPLE Unleashed"
-      content : "The moccasins are phenominally comfortable, <br> and have been great for my summer walks <br> this year.  Thanks Handmade by Zionette!"
+      content : "The Felicity Hood and Scarf yarn feels good close to my skin while keeping me warm, <br> and have been great for my winter walks <br> this year.  Thanks Handmade by Zionette!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Goober"
       image : "images/clients/Goober.png" # size 100px*100px
-      designation : "Master Gardener, Goober's Backyard"
-      content : "The handmade Rosemary Lavendar is my favorite, smells fantastic! <br> The essential oils <br> and herbs give this soap such a wonderful aroma and keeps my skin feeling fresh and clean."
+      designation : "Master Walker, in Goober's Backyard and Neighborhood"
+      content : "The handmade delicate yarn that was woven to create this beautiful and luxerious beaded sweater keeps me warm, love it!."
       rating : "five" # rating star, one to five
