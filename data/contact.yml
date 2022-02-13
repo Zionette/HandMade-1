@@ -3,8 +3,8 @@ contact:
   enable : true
   # office
   office:
-    title : "Central Office"
-    content : "2241 North Monroe Street #1053, Tallahassee, FL. 32303"
+    title : ""
+    content : ""
     # other information comes from "config.toml"
 
   # opennig hour
