@@ -84,6 +84,11 @@ video:
   videoThumb : "images/HandmadeThumbVideo.png"
   videoURL : "https://www.youtube.com/embed/thqAZddMnx4"
 
+######################## Spring Sweater #############################
+sweater:
+  enable : true
+  title : "Handcrafted Beaded Spring Sweater Art"
+  # sweater item comes from "content/sweater"
 
 ######################## Sets #############################
 sets:
