@@ -7,7 +7,7 @@ banner:
   # button
   button:
     enable : true
-    label : "All Craftsmanships"
+    label : "All Handmade Art"
     link : "products"
   # demo video
   video:
@@ -19,7 +19,10 @@ about:
   enable : true
   title : "Newest Creation on our Show Case"
   content : "Hot Springs Kids Hoody with Sparkle Pink Beads"
-  image : "images/products/KidsPurpleHoody3.png"
+  image : "images/kids/KidsPurpleHoody3.png"
+  button:
+    label : "Kids Hoodies"
+    link: "kids"
 
 
 ###################### Call to action ########################
@@ -30,8 +33,8 @@ cta:
   image : "images/products/CollageOfYarn.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "-Artisanat-"
-    link : "products"
+    label : "-Artisan-"
+    link : "sweater"
 
 ######################## raw material #######################
 material:
